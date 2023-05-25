@@ -1,0 +1,12 @@
+Motorcycle;Suzuki;G100;2010;200.0;KR1111;false
+Motorcycle;BMW;C100;2011;250.0;KR2222;false
+Car;BMW;3;2015;300.0;KR11;false
+Car;Audi;A5;2016;350.0;KR22;false
+Car;Kia;Ceed;2017;320.0;KR33;false
+Car;Toyota;Corolla;2018;370.0;KR44;false
+Car;Volvo;V50;2013;200.0;KR55;false
+Bus;Volvo;GTR;2006;650.0;KR333;false;45;true
+Bus;Star;1000;2005;600.0;KR111;false;52;true
+Bus;Jelcz;S2000;1984;900.0;KR222;false;30;false
+User;admin;54e3353920c4496ca0cdd7ad5cf2b648
+User;janusz;3c94f62f3988095764806e38e30bbfb9
